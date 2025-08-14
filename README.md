@@ -1,5 +1,12 @@
-## Hi there 👋
+<h1>Hi 👋 I'm Hassan Zaheer</h1
+<h2> MERN Stack Developer </h2>
 
+<p>I am learning backened.</p>
+<p>Ask me about:
+  Frontened Technologies: HTML , CSS  , Bootstrap , React 
+  Backened Technologies: NodeJs
+  DataBase: MognogoDB ,MySQL
+</p>
 <!--
 **hassanzaheer88/hassanzaheer88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
