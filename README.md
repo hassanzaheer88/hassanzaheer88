@@ -4,9 +4,9 @@
 <p>I am learning backened development.</p>
 <p>Ask me about:
   <ul>Frontened Technologies: 
-  <li>HTML , CSS  , Bootstrap , React </li> </ul>
+  <li>HTML || CSS || Bootstrap || React </li> </ul>
   <ul>Backened Technologies: NodeJs
-  <li>DataBase: MognogoDB ,MySQL</li></ul>
+  <li>DataBase: MongoDB || MySQL</li></ul>
 </p>
  
 <!--
