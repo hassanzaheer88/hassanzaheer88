@@ -5,7 +5,8 @@
 <p>Ask me about:
   <ul>Frontened Technologies: 
   <li>HTML || CSS || Bootstrap || React </li> </ul>
-  <ul>Backened Technologies: NodeJs
+  <ul>Backened Technologies: 
+    <li>NodeJs</li>
   <li>DataBase: MongoDB || MySQL</li></ul>
 </p>
  
