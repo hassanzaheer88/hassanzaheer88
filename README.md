@@ -3,11 +3,9 @@
 
 <p>I am learning backened development.</p>
 <p>Ask me about:
-  <ul>Frontened Technologies: 
-  <li>HTML || CSS || Bootstrap || React </li> </ul>
-  <ul>Backened Technologies: 
-    <li>NodeJs</li>
-  <li>DataBase: MongoDB || MySQL</li></ul>
+  <li>Frontened Technologies: HTML || CSS || Bootstrap || React </li>
+  <li>Backened Technologies: NodeJs </li>
+  <li>DataBase: MongoDB || MySQL</li>
 </p>
  
 <!--
