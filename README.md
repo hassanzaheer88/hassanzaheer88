@@ -9,7 +9,10 @@
 
 - 🤝 I’m looking for help with **MERN Projects**
 
-- 💬 Ask me about **‣ Frontend Technologies: React**
+- 💬 Ask me about <br>
+
+   **Frontend Technologies: React** <br> **Backened Technologies: NodeJS**
+  
 
 - 📫 How to reach me **sh.hassan607@gmail.com**
 
