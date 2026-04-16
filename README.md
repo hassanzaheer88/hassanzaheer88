@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hassan Zaheer</h1>
 <h3 align="center">A passionate MERN Stack Developer </h3>
 <div align='center'>
-# 💫 About Me:
+💫 About Me:
 🌱 I’m currently learning NodeJS<br><br>🤝 I’m looking for help with MERN Projects<br><br>💬 Ask me about<br><br>Frontend Technologies: ReactJS<br>Backened Technologies: NodeJS<br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hmuhammad-hassan-7241092a8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sh.hassan607@gmail.com) 
