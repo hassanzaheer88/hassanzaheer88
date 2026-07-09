@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hassan Zaheer</h1>
 <h3 align="center">A passionate MERN Stack Developer </h3>
-<div align='left'>
+<div align='center'>
 💫 About Me:
    I’m currently learning AI And Machine Learning<br>🤝 I’m looking for help with MERN Projects<br><br>💬 Ask me about<br><br>Frontend Technologies: ReactJs<br>Backened Technologies: NodeJs<br>
 </div>
